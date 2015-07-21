@@ -1,0 +1,1 @@
+A remote repository is useful if you are using another computer or if you wish to enter your data directly into github online. This is great if you only have access to a public computer.
