@@ -1,1 +1,7 @@
 A remote repository is useful if you are using another computer or if you wish to enter your data directly into github online. This is great if you only have access to a public computer.
+
+The ability to push and pull manually is extremely important when using git and github, especially in collaboration. As stated before, sometimes you may be in the middle of a change when the system automatically commits, making the commit at a point in time that isn't relevant. It is a similar situation with syncing, because you only want to sync when you are at a completion point. You also do not want to pull down commits from github that include changes made by collaborators, because their changes could potentially cause bugs in your working environment.
+
+A clone is a copy of an entire repository placed on a local computer, a branch is a section of a repository that can exist either locally or remotely, and a fork is a version of someone else's repository that you have placed in your github directory.
+
+
